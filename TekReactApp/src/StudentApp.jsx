@@ -33,6 +33,7 @@ class StudentName extends Component{
     }
 }
 class List extends Component{
+    
     render(){
         return(
             <ul>
